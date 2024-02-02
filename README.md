@@ -1,6 +1,7 @@
 # gamepro-phone-notifier
 
 A script to run alongside the gamepro shiny pokemon hunting scripts.
+(https://www.noobysgamepro.com/software)
 It will send a push notification to your device when the script finds a shiny pokemon.
 
 Requires setup of notify_run. https://pypi.org/project/notify-run/
